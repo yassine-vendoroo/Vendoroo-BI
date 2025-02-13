@@ -1,0 +1,58 @@
+CleanedText,EventDescription,SendDatetime,SenderRoleName
+New work order 'REDBIRDGPM-2390-1' was created.,New work order created,2025-01-23 17:20:08.189795,SuperAdmin
+A new Repair work order has been created.,Work order classification changed,2025-01-23 17:47:15.243660,Assistant
+"Hi Katherine, I’m Paulina with Red Bird GA PM. We have received your request regarding the washing machine issue and are currently reviewing the task. I will follow up with you shortly with more information. Thank you for your patience.",SMS to Resident,2025-01-23 17:49:03.650369,Assistant
+"New status: Escalation
+Other Issue: EMC LEVEL 2",Status Update,2025-01-23 17:49:35.440631,Assistant
+"New status: Awaiting Tenant Response
+The tenant has been contacted. I have sent them some troubleshooting steps and requested a picture to address the necessary repairs. I am currently waiting for the tenant's response.",Status Update,2025-01-23 18:25:28.001083,Assistant
+"New status: Escalated
+The tenant stated that she cannot complete the troubleshooting steps. I will escalate this order to EMC, who will assign an appliance vendor and track the progress of the order until completion.",Status Update,2025-01-23 22:12:13.353440,Assistant
+"New status: Escalation
+Other Issue: Please assign an appliance vendor and track the progress of the order until completion. Thank you :)",Status Update,2025-01-23 22:12:47.943396,Assistant
+"**January 24**
+
+**Update:** We have sent a message to the PM to confirm if we can assign Reids as the vendor for this order.
+
+**Upcoming:** Follow up on the PM's confirmation regarding the assignment.",Status Update,2025-01-24 15:52:36.456889,Assistant
+Next action date updates to: 01/28/2025 16:55:00,Next action date updated,2025-01-24 21:55:12.045246,Assistant
+Next action date updates to: 01/28/2025 00:00:00,Next action date updated,2025-01-24 22:23:00.664041,Assistant
+"**January 28**
+
+**Update:** I have sent a message to the tenant to confirm whether the issue has been resolved. (Working on WO2388 and WO2390 as are on the same property)
+
+**Upcoming:** Follow up on the tenant's response and proceed to complete the order.",Status Update,2025-01-28 16:13:10.219362,Assistant
+"**January 28**
+
+**Update:** The tenant has sent her satisfaction message, everything is functioning properly. We are currently awaiting the invoice and completion photos.
+
+**Upcoming:** Follow up on the invoice and photos. Request them from the vendor.&#x20;",Status Update,2025-01-28 22:27:53.123697,Assistant
+Next action date updates to: 01/29/2025 00:00:00,Next action date updated,2025-01-28 22:28:32.364673,Assistant
+The status of the work order has been changed to Completed.,Work order status changed,2025-01-28 22:28:35.281358,Assistant
+The status of the work order has been changed from Completed to WaitingForInvoice.,Work order status changed,2025-01-28 22:28:46.409225,Assistant
+"Dear Eric Reid, This is a friendly reminder to please upload the invoice and completion photos to the portal. Alternatively, you may send them by replying to this email regarding the completed work on the washer machine (WO2390) at 1121 Summer Hollow Road. Thank you so much for your support. Best regards,Paulina MejiaSunbeam - Maintenance Coordinator",Email to Vendor,2025-01-29 16:35:43.529871,Assistant
+"**Jan 29**
+
+**Update:** I have emailed the vendor, Eric Reid, to remind him to upload the invoice to the portal.
+
+**Upcoming:** If we do not receive a response from the vendor, we will follow up with a call.",Status Update,2025-01-29 16:41:10.209428,Assistant
+Next action date updates to: 02/04/2025 00:00:00,Next action date updated,2025-01-29 16:43:15.096502,Assistant
+"Hi Reids, this is Paulina with Sunbeam. This is a friendly reminder to please upload the invoice and completion photos to the portal, or you can send them via email regarding the completed work on the washer machine (WO2390) at 1121 Summer Hollow Road. Thank you so much for your support.
+The new way to communicate offers better visibility into your work order. Please use the provided link to respond:
+https://go.vendoroo.ai/xN42HK",SMS to Vendor,2025-02-04 15:36:52.857709,Assistant
+"**February 4**
+
+**Update:** We have not yet received the invoice and completion photos from the vendor. I have sent you a message to remind him again.
+
+**Upcoming:** Follow up on the invoice and photos.",Status Update,2025-02-04 15:41:26.799271,Assistant
+"New status: Assigned
+Vendor Assigned: Assigned by PM",Status Update,2025-02-04 15:43:15.231685,Assistant
+Service for Under NTE is to be scheduled with Reids Lawn Service and Handyman.,In-progress work created,2025-02-04 15:43:15.691683,Assistant
+The priority of the work order has been changed from Medium to Low.,Work order priority changed,2025-02-04 15:43:25.001082,Assistant
+Next action date updates to: 02/11/2025 00:00:00,Next action date updated,2025-02-04 15:43:40.521434,Assistant
+"**February 11**
+
+**Update:** This order requires an invoice.
+
+**Upcoming:** We will proceed with closing the order on our end as well.",Status Update,2025-02-11 14:25:50.920404,Assistant
+,Work order force closed,2025-02-11 14:26:13.304456,Assistant

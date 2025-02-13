@@ -1,0 +1,9 @@
+python-dotenv
+sqlalchemy
+pandas
+pyscopg2-binary
+beautifulsoup4
+dash
+streamlit-jupyter
+ipykernel
+streamlit-vis-timeline
